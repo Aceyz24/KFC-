@@ -1,0 +1,6 @@
+{
+  "name": "KFC Nairobi",
+  "description": "Gourmet crispy chicken ordering portal with modern elegant dark layout, Live M-Pesa prompt simulation, live ETA order tracker, and AI-powered meal recommendation assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
